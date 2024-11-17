@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0
+    box-sizing: border-box;
+    font-family: 'Courier', arial;
+}
+
+.navigator {
+    font-size: 40px;
+    display: left;
+    justify-content: left;
+    max-width: 1000px;
+    margin: 5 auto 5 5;
+    width: 60px;
+    height: 60px;
+    background-color: black;
+    border: 2px solid #a033ff;
+    text-decoration: none;
+}
+
+
+.wrapper {
+    display: center;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 5 auto 5 auto;
+    width: 770px;
+    height: 1920px;
+    background-color: black;
+    border: 5px solid #a033ff;
+}
+
